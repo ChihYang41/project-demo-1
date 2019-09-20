@@ -1,0 +1,14 @@
+.container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.project-list .card {
+  margin: 30px auto 20px auto;
+  transition: all 0.3s;
+}
+
+.project-list .card:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}
